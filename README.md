@@ -1,8 +1,17 @@
-# React + Vite
+# Mock E-Commerce Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simulated E-commerce website that is set up as a SPA React project. Allows users to manage accounts, products, and orders. Built with a Python based backend that uses a SQL database.
 
-Currently, two official plugins are available:
+### Features
+- Account management (Creating, Updating, and Deleting)
+- Product management (Creating, Updating, and Deleting)
+- Order management (Creating)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Technology Used
+- React
+- JavaScript
+- Python
+- Bootstrap
+- SQL
+- HTML
+- CSS
